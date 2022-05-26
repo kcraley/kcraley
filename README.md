@@ -14,7 +14,13 @@
 
 ### About Me
 
-I am a DevOps Engineer living in the greater Philadelphia area.
+I am a DevOps Engineer living in the greater Philadelphia area who loves solving engineering problems at scale.  That includes infrastructure as code, writing custom tooling and providing a better developer experience.
+
+### Interests
+
+* Everything culinary related, including barbeque :meat_on_bone: and craft beer :beers:!
+* Practicing my woodworking skills by making various things by hand.
+* And I like to think I am an amateur Cornhole player... :grin:
 
 ---
 
