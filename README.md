@@ -18,6 +18,8 @@ I am a DevOps Engineer living in the greater Philadelphia area.
 
 ---
 
+### Github Stats
+
 <div align="center" id="stats">
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=kcraley&theme=dark&background=000000" alt="LinkedIn Badge"/> &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcraley&layout=compact&theme=vision-friendly-dark" alt="LinkedIn Badge"/>
