@@ -6,6 +6,7 @@
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/keith-craley/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Badge"/>
   </a>
 </div>
 
